@@ -1,2 +1,2 @@
-# PandemicRectangles
-Get ready for the PANDEMIC RECTANGLES! They are going to infect you!
+# Bounds Of Khala
+See mystical bounds of Khala in the void
